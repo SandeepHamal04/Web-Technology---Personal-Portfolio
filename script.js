@@ -1,4 +1,4 @@
-// ===== Active link highlight (shared) =====
+// ===== Active link highlight =====
 const page = document.body.dataset.page;
 if(page){
   document.querySelectorAll(".nav a").forEach(a => {
